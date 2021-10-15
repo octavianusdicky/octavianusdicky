@@ -1,4 +1,8 @@
-### Hi there 👋
+### Halo Semuanya 👋
+
+Perkenalkan nama saya **Octavianus Dicky Wahyudi**.\
+Saya seorang **Mahasiswa Sistem Informasi** di [UKSW](https://www.uksw.edu/).\ 
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/octavianusdickywahyudi/)ku ya.
 
 <!--
 **octavianusdicky/octavianusdicky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
