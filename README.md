@@ -16,12 +16,12 @@ Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](http
 <img align="left" alt="React" title="React" width="21px" src="https://cdn.worldvectorlogo.com/logos/react-2.svg" />
 <img align="left" alt="Python" title="Python" width="21px" src="https://cdn.worldvectorlogo.com/logos/python-5.svg" />
 
-<p align="left">
+<!-- <p align="left">
 <a href="https://github.com/octavianusdicky">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=octavianusdicky&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=octavianusdicky&layout=compact&langs_count=8&theme=algolia"/>
 </a>
-</p>
+</p> -->
 
 
 <!--
