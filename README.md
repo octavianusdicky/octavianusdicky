@@ -1,7 +1,7 @@
 ### Halo Semuanya 👋
 
 Perkenalkan nama saya **Octavianus Dicky Wahyudi**.\
-Saya seorang **Mahasiswa Sistem Informasi** di [UKSW](https://www.uksw.edu/).\
+Saya seorang **Freshgraduate jurusan Sistem Informasi** di [UKSW](https://www.uksw.edu/).\
 Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/octavianusdickywahyudi/)ku ya.
 
 <p align="left">
